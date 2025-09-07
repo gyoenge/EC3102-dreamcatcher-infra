@@ -12,6 +12,14 @@ An educational project demonstrating cloud computer system concepts in Kubernete
 
 ### Overview
 
+#### Infra Architecture
+
 <p align="center">
 <img width="60%" alt="architecture" src="https://github.com/user-attachments/assets/72261e3a-71e6-4f76-a78b-56a90238efc6" />
+</p>  
+
+#### Service Preview 
+
+<p align="center">
+<img width="80%" alt="dreamcatcher_fe_preview" src="https://github.com/user-attachments/assets/38006bd3-f696-4591-94ba-9b4f0deef9af" />
 </p>  
